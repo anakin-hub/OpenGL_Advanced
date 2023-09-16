@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Studying\Projects - OpenGL Advanced\OpenGL\OpenGL\main.cpp(105,17): warning C4305: '=': truncamento de 'double' para 'float'
+D:\Studying\Projects - OpenGL Advanced\OpenGL\OpenGL\main.cpp(106,17): warning C4305: '=': truncamento de 'double' para 'float'
+  OpenGL.vcxproj -> D:\Studying\Projects - OpenGL Advanced\OpenGL\x64\Debug\OpenGL.exe

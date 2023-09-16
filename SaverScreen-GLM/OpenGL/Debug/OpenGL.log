@@ -1,0 +1,12 @@
+﻿main.obj : error LNK2019: símbolo externo não resolvido, _glfwInit, referenciado na função _main
+main.obj : error LNK2019: símbolo externo não resolvido, _glfwTerminate, referenciado na função _main
+main.obj : error LNK2019: símbolo externo não resolvido, _glfwWindowHint, referenciado na função _main
+main.obj : error LNK2019: símbolo externo não resolvido, _glfwCreateWindow, referenciado na função _main
+main.obj : error LNK2019: símbolo externo não resolvido, _glfwWindowShouldClose, referenciado na função _main
+main.obj : error LNK2019: símbolo externo não resolvido, _glfwGetFramebufferSize, referenciado na função _main
+main.obj : error LNK2019: símbolo externo não resolvido, _glfwPollEvents, referenciado na função _main
+main.obj : error LNK2019: símbolo externo não resolvido, _glfwMakeContextCurrent, referenciado na função _main
+main.obj : error LNK2019: símbolo externo não resolvido, _glfwSwapBuffers, referenciado na função _main
+main.obj : error LNK2001: símbolo externo não resolvido _glewExperimental
+D:\Studying\Projects - OpenGL Advanced\OpenGL\\..\External\GLFW\lib-vc2022\glfw3.lib : warning LNK4272: o tipo de máquina da biblioteca 'x64' está em conflito com o tipo de máquina de destino 'x86'
+D:\Studying\Projects - OpenGL Advanced\OpenGL\Debug\OpenGL.exe : fatal error LNK1120: 10 externo não resolvidos

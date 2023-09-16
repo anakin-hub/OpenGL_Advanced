@@ -1,0 +1,10 @@
+#  id filename Tx  Ty  Tz  S   R  Rx  Ry  Rz C E A Speed TouT
+obj 1 trout.obj 1.0 0.0 0.0 1.0 0 0.0 1.0 0.0 0 0 0
+#  id filename 			Tx  Ty  Tz  S  R Rx  Ry  Rz  C E A Speed TouT
+obj 2 cubo.obj 0.0 0.0 0.0 1.0 0 0.0 1.0 0.0 0 0 0
+#  id filename 			Tx  Ty  Tz  S  R Rx  Ry  Rz   C E A Speed TouT
+obj 3 cubo_amarelo.obj 0.0 0.0 0.0 0.1 0 0.0 1.0 0.0 0 0 1 2.5 5.0
+#cam eye        direction   up
+cam 0.0 0.0 4.5 0.0 0.0 -1.0 0.0 1.0 0.0
+#viewport width height
+vp 800 600

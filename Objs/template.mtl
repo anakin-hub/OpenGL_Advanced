@@ -1,0 +1,6 @@
+newmtl template
+Ka 0.5 1.0 0.5
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 20.0
+map_Kd template.png

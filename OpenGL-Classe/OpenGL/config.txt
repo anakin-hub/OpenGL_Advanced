@@ -1,0 +1,16 @@
+#  id filename Tx  Ty  Tz  S  R Rx  Ry  Rz  C E A Speed/Car TouT
+obj 1 torreDiPisa.obj 0.0 0.0 -2.0 1.0 0 0.0 1.0 0.0 0 0 0 0
+#  id filename Tx  Ty  Tz  S  R Rx  Ry  Rz  C E A Speed/Car TouT
+obj 2 pista.obj 0.0 -0.45 1.0 0.4 0 0.0 1.0 0.0 0 0 0 0
+#  id filename Tx  Ty  Tz  S  R Rx  Ry  Rz  C E A Speed/Car TouT
+obj 3 mesa01.obj 0.0 -1.0 1.0 0.0 0 0.0 1.0 0.0 0 0 0 0
+#  id filename Tx  Ty  Tz  S  R Rx  Ry  Rz  C E A Speed/Car TouT
+obj 4 cubo.obj 0.0 0.05 0.0 0.1 0 0.0 1.0 0.0 0 0 0 1
+#  id filename Tx  Ty  Tz  S  R Rx  Ry  Rz  C E A Speed/Car TouT
+obj 5 pista.obj 0.0 0.0 0.0 1.0 0 0.0 1.0 0.0 0 0 0 0
+#  id filename Tx  Ty  Tz  S  R Rx  Ry  Rz
+anim 6 curve.anim 0.0 0.0 0.0 1.0 0 0.0 1.0 0.0
+#cam eye        direction   up
+cam 0.0 0.0 4.5 0.0 0.0 -1.0 0.0 1.0 0.0
+#viewport width height
+vp 800 600
